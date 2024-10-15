@@ -1,0 +1,11 @@
+.box {
+  transition: transform 0.5s ease-in-out;
+  background-color: ghostwhite;
+}
+
+.box:hover {
+  transform: rotate(360deg);
+}
+.h1.class{
+    background-color: blue;
+}
